@@ -1,2 +1,6 @@
 1. Email Classification with Machine Learning and Word Embeddings for Improved Customer Support 
   http://www.diva-portal.org/smash/get/diva2:1189491/FULLTEXT01.pdf 
+2. Git TextClassification - Naive Bayes and SVM
+  https://github.com/cahya-wirawan/ML-Collection/blob/master/TextClassification.py
+3. CNN text Classification using TF
+  https://github.com/cahya-wirawan/cnn-text-classification-tf
